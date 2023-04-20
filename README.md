@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **osherc17@gmail.com**
 
-- 📄 Know about my experiences [in/oshercohen-](in/oshercohen-)
+- 📄 Know about my experiences [https://www.linkedin.com/in/oshercohen-/](https://www.linkedin.com/in/oshercohen-/)
 
 
 <h3 align="left">Languages and Tools:</h3>
