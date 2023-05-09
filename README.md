@@ -17,6 +17,7 @@
 
 ![Packer](https://img.shields.io/static/v1?style=for-the-badge&message=Packer&color=02A8EF&logo=Packer&logoColor=FFFFFF&label=)
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
+![Datadog](https://img.shields.io/static/v1?style=for-the-badge&message=Datadog&color=632CA6&logo=Datadog&logoColor=FFFFFF&label=)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osherdev&show_icons=true&locale=en&layout=compact" alt="osherdev" /></p>
 
